@@ -87,7 +87,7 @@ int main() {
     }
 
     //zero(matrix,n);
-    int y =5;
+    int y =6;
     for(int i=1;i<=n;i++){
         for(int j=0;j<graph[i].degree;j++){
                 matrix[i][graph[i].neigh[j]] = 1;
