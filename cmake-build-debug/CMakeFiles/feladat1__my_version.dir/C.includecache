@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/marknago/Desktop/SAPIENTIA/INFORMATIKA/II FELEV/Data Structures & Algorithms/II/1 ora/feladat1 (my version/main.c
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+

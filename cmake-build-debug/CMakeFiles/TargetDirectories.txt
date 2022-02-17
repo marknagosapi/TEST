@@ -1,0 +1,3 @@
+/Users/marknago/Desktop/SAPIENTIA/INFORMATIKA/II FELEV/Data Structures & Algorithms/II/1 ora/feladat1 (my version/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/marknago/Desktop/SAPIENTIA/INFORMATIKA/II FELEV/Data Structures & Algorithms/II/1 ora/feladat1 (my version/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/marknago/Desktop/SAPIENTIA/INFORMATIKA/II FELEV/Data Structures & Algorithms/II/1 ora/feladat1 (my version/cmake-build-debug/CMakeFiles/feladat1__my_version.dir
